@@ -3,7 +3,7 @@ install flink in k8s
 
 # HOW TO USE
 ```sh
-git clone https://github.com/fightinggg/install-flink-in-k8s.git
+git clone https://github.com/byd-android-2017/install-flink-in-k8s.git
 cd install-flink-in-k8s
 kubectl create -f flink-configuration-configmap.yaml
 kubectl create -f jobmanager-service.yaml
